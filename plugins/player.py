@@ -248,7 +248,7 @@ async def play(_, message: Message):
             return await lel.edit(
                 "**PROCESSING...**"
             )
-        await lel.edit("**🔄LOADING...**")
+        await lel.edit("**🔄LOADING..**")
         query = message.text.split(None, 1)[1]
         # print(query)
         try:
