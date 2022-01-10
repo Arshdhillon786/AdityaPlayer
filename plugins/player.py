@@ -173,8 +173,8 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="💥 𝗝𝗢𝗜𝗡 𝗛𝗘𝗥𝗘 𝗔𝗡𝗗 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 "
-                            url=f"https://t.me/girls_boys_chatting10")
+                            text="𝗛𝗘𝗛𝗘 𝗦𝗢𝗝𝗔 𝗩𝗥𝗢 ♡ᗯTᖴ♡ᴹᴶᴬᴷ ᴷᴿᴿᴬ ᴴᵁ ",
+                            url=f"https://t.me/GIRLS_BOYS_CHATTING10")
 
                 ]
             ]
