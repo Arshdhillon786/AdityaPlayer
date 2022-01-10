@@ -246,9 +246,9 @@ async def play(_, message: Message):
     else:
         if len(message.command) < 2:
             return await lel.edit(
-                "**𝐁𝐀𝐁𝐘 𝐆𝐀𝐍𝐄 𝐊𝐀 𝐍𝐀𝐌𝐄 𝐁𝐇𝐈 𝐋𝐈𝐊𝐇𝐍𝐀 𝐇𝐎𝐓𝐀 𝐇 𝐏𝐋𝐀𝐘 𝐊𝐑𝐍𝐄 𝐊𝐄 𝐋𝐈𝐘𝐄ᰔ...**"
+                "**PROCESSING...**"
             )
-        await lel.edit("**🔄 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗  ...**")
+        await lel.edit("**🔄LOADING...**")
         query = message.text.split(None, 1)[1]
         # print(query)
         try:
