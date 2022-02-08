@@ -173,7 +173,7 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="𝗛𝗘𝗛𝗘 𝗦𝗢𝗝𝗔 𝗩𝗥𝗢 ♡ᗯTᖴ♡ᴹᴶᴬᴷ ᴷᴿᴿᴬ ᴴᵁ ",
+                            text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞",
                             url=f"https://t.me/GIRLS_BOYS_CHATTING10")
 
                 ]
@@ -246,9 +246,9 @@ async def play(_, message: Message):
     else:
         if len(message.command) < 2:
             return await lel.edit(
-                "**PROCESSING...**"
+                "**𝐁𝐀𝐁𝐘 𝐆𝐀𝐍𝐄 𝐊𝐀 𝐍𝐀𝐌𝐄 𝐁𝐇𝐈 𝐋𝐈𝐊𝐇𝐍𝐀 𝐇𝐎𝐓𝐀 𝐇 𝐏𝐋𝐀𝐘 𝐊𝐑𝐍𝐄 𝐊𝐄 𝐋𝐈𝐘𝐄ᰔ...**"
             )
-        await lel.edit("**🔄LOADING..**")
+        await lel.edit("**🔄 𝙉𝙀𝙏 𝙉𝙄 𝘾𝙃𝘼𝙇𝙍𝘼 𝙃𝙊𝙏𝙎𝙋𝙊𝙏 𝘾𝙃𝘼𝙇𝘼𝘿𝙀 𝘽𝙃𝘼𝙄 ...**")
         query = message.text.split(None, 1)[1]
         # print(query)
         try:
